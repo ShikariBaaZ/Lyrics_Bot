@@ -1,6 +1,6 @@
 # Lyrics_Bot
 ---
-![Lyrics_Bot](https://divrk.pages.dev/img/LyricsBot.png)
+![LyricsBot](https://divrk.pages.dev/img/lyricsbot.png)
 
 ---
 <p align="center"><a href="https://t.me/ShikariSupportNetwork"><img src="https://telegra.ph/file/a843bbcc348fa3321229c.jpg" width="400"></a></p>
